@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nakul-puranik
 - 👀 I’m interested in mobile techs.
-- 🌱 I’m currently learning iOS, swift
+- 🌱 I’m Mobile Developer. I work on Android and iOS Apps.
 
 
 <!---
